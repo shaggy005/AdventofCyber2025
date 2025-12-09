@@ -1,4 +1,4 @@
-#Day 0
+# Day 0
 Not much work to be done here, just follow the instructions and get flags
 ## flags
 ```
