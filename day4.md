@@ -81,3 +81,5 @@ Response Body:
 root@ip-10-48-159-22:~# 
 
 ```
+<img width="1369" height="915" alt="image" src="https://github.com/user-attachments/assets/4e01718a-933d-4a81-a441-49f3b5540a3d" />
+
