@@ -1,4 +1,7 @@
-
+# AI in Security - old sAInt nick
+- on opening the address given inside the attackbox we get in a website called vansolve
+- it gave a script and asked to run it
+- got the flags subsequently
 
 ```
 import requests
@@ -83,3 +86,12 @@ root@ip-10-48-159-22:~#
 ```
 <img width="1369" height="915" alt="image" src="https://github.com/user-attachments/assets/4e01718a-933d-4a81-a441-49f3b5540a3d" />
 
+## Complete the AI showcase by progressing through all of the stages. What is the flag presented to you?
+```
+THM{AI_MANIA}
+```
+## Execute the exploit provided by the red team agent against the vulnerable web application hosted at 10.48.166.114:5000. What flag is provided in the script's output after it?
+``Remember, you will need to update the IP address placeholder in the script with the IP of your vulnerable machine (10.48.166.114:5000)``
+```
+THM{SQLI_EXPLOIT}
+```
