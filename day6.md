@@ -1,0 +1,19 @@
+## Static analysis: What is the SHA256Sum of the HopHelper.exe?
+<img width="1096" height="700" alt="image" src="https://github.com/user-attachments/assets/037febd4-9b6b-4163-90fb-6e995d63ebe9" />
+```
+F29C270068F865EF4A747E2683BFA07667BF64E768B38FBB9A2750A3D879CA33
+```
+## Static analysis: Within the strings of HopHelper.exe, a flag with the format THM{XXXXX} exists. What is that flag value?
+<img width="1085" height="716" alt="image" src="https://github.com/user-attachments/assets/98361c6a-fea8-400c-a853-fcaa426aefac" />
+```
+THM{STRINGS_FOUND}
+```
+## Dynamic analysis: What registry value has the HopHelper.exe modified for persistence?
+```
+HKU\S-1-5-21-1966530601-3185510712-10604624-1008\Software\Microsoft\Windows\CurrentVersion\Run\HopHelper
+```
+## Dynamic analysis: Filter the output of ProcMon for "TCP" operations. What network protocol is HopHelper.exe using to communicate?
+```
+http
+```
+
