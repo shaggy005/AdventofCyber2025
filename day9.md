@@ -11,7 +11,6 @@ THM{Cr4ck1ng_PDFs_1s_34$y}
 ```
 THM{Cr4ck1n6_z1p$_1s_34$yyyy}
 ```
-Correct Answer
 
 
 
