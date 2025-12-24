@@ -1,4 +1,4 @@
-![PHOTO-2025-12-25-04-24-22](https://github.com/user-attachments/assets/6add86f2-0e1e-4bc3-8031-8ad188f71692)# Forensics - Registry Furensics
+# Forensics - Registry Furensics
 
 ## What application was installed on the dispatch-srv01 before the abnormal activity started?
 ![PHOTO-2025-12-25-04-27-43](https://github.com/user-attachments/assets/80e98d9f-ff4d-458f-a46d-c811ea8fd0ce)
