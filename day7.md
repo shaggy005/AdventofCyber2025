@@ -25,3 +25,15 @@ KEY1:3aster_
 13 bytes received in 00:00 (0.30 KiB/s)
 ftp> 
 ```
+```
+┌──(shaggy㉿kali)-[~]
+└─$ nc -v 10.49.191.61 25251
+10.49.191.61: inverse host lookup failed: Unknown host
+(UNKNOWN) [10.49.191.61] 25251 (?) open
+TBFC maintd v0.2
+Type HELP for commands.
+HELP
+Commands: HELP, STATUS, GET KEY, QUIT
+GET KEY
+KEY2:15_th3_
+```
