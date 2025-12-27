@@ -1,3 +1,5 @@
+# Network Discovery - Scan-ta Clause
+
 ```
 ┌──(shaggy㉿kali)-[~]
 └─$ ftp 10.49.191.61 21212
