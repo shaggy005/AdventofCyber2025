@@ -37,3 +37,34 @@ Commands: HELP, STATUS, GET KEY, QUIT
 GET KEY
 KEY2:15_th3_
 ```
+```
+┌──(shaggy㉿kali)-[~]
+└─$ nmap -sU 10.49.191.61
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-12-27 23:48 IST
+Nmap scan report for 10.49.191.61
+Host is up (0.042s latency).
+Not shown: 999 open|filtered udp ports (no-response)
+PORT   STATE SERVICE
+53/udp open  domain
+
+Nmap done: 1 IP address (1 host up) scanned in 43.27 seconds
+                                                                              
+┌──(shaggy㉿kali)-[~]
+└─$ dig @10.49.191.61 TXT key3.tbfc.local +short
+"KEY3:n3w_xm45"
+```
+```
+tbfcapp@tbfc-devqa01:~$ mysql -D tbfcqa01 -e "show tables;"                                                               
++--------------------+                                                                                                    
+| Tables_in_tbfcqa01 |                                                                                                    
++--------------------+                                                                                                    
+| flags              |                                                                                                    
++--------------------+                                                                                                    
+tbfcapp@tbfc-devqa01:~$ mysql -D tbfcqa01 -e "select * from flags;"                                                       
++----+------------------------------+                                                                                     
+| id | flag                         |                                                                                     
++----+------------------------------+                                                                                     
+|  1 | THM{4ll_s3rvice5_d1sc0vered} |                                                                                     
++----+------------------------------+                                                                                     
+tbfcapp@tbfc-devqa01:~$
+```
