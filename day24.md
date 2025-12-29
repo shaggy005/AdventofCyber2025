@@ -44,3 +44,11 @@ Trying password: secretpass
 └─$ 
                                    
 ```
+## Make a request to the /agent.php endpoint with the user-agent TBFC. What is the flag your receive?
+
+```
+curl -A "TBFC" http://10.48.151.44/agent.php
+```
+```
+THM{user_agent_filter_bypassed}
+```
