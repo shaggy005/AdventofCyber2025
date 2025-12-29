@@ -48,3 +48,16 @@ So username is "LongEars" in B64 and the password is
 ```
 BugsBunny
 ```
+## What is the password for the fourth lock?
+
+<img width="940" height="619" alt="image" src="https://github.com/user-attachments/assets/f6482c1e-fde8-40e6-80ac-64544ce72cfa" />
+
+<img width="1205" height="665" alt="image" src="https://github.com/user-attachments/assets/528b4175-5bc0-4f45-80bc-ee666f83b859" />
+
+<img width="1072" height="703" alt="image" src="https://github.com/user-attachments/assets/79fe158d-f9e2-42ef-ab3a-79b2a6085a7b" />
+
+- the username is Lenny in B64 ``TGVubnk=``
+- and the password is
+```
+passw0rd1
+```
