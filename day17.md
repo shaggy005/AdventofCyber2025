@@ -29,3 +29,11 @@ so the username is CarrotHelm in B64 and the password is "Itoldyoutochangeit!"
 ```
 Itoldyoutochangeit!
 ```
+## What is the password for the third lock?
+<img width="1439" height="827" alt="image" src="https://github.com/user-attachments/assets/0bc6425c-526e-4124-8557-7606168122e0" />
+
+<img width="1439" height="827" alt="image" src="https://github.com/user-attachments/assets/31241642-a989-4a27-a97d-db81a39c181a" />
+
+<img width="1439" height="827" alt="image" src="https://github.com/user-attachments/assets/9e8d3084-b5fa-4a3b-8f66-c5c1be3be6fa" />
+
+<img width="1439" height="827" alt="image" src="https://github.com/user-attachments/assets/49e15ae8-b9dc-4608-a33e-b7bff96a88c5" />
