@@ -37,3 +37,14 @@ Itoldyoutochangeit!
 <img width="1439" height="827" alt="image" src="https://github.com/user-attachments/assets/9e8d3084-b5fa-4a3b-8f66-c5c1be3be6fa" />
 
 <img width="1439" height="827" alt="image" src="https://github.com/user-attachments/assets/49e15ae8-b9dc-4608-a33e-b7bff96a88c5" />
+
+<img width="1586" height="720" alt="image" src="https://github.com/user-attachments/assets/2dae05ab-3777-4fef-b818-3930b381538a" />
+
+<img width="570" height="303" alt="image" src="https://github.com/user-attachments/assets/39546b54-6c58-4c39-9cb5-3a70be14e707" />
+
+<img width="885" height="619" alt="image" src="https://github.com/user-attachments/assets/17899128-9ba8-40e4-9db8-4f4073454bd0" />
+
+So username is "LongEars" in B64 and the password is 
+```
+BugsBunny
+```
