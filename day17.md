@@ -78,3 +78,10 @@ passw0rd1
 ```
 51rBr34chBl0ck3r
 ```
+## What is the retrieved flag?
+
+<img width="999" height="487" alt="image" src="https://github.com/user-attachments/assets/2a0747dc-c028-4d03-b039-15f447f7d2e2" />
+
+```
+THM{M3D13V4L_D3C0D3R_4D3P7}
+```
