@@ -25,3 +25,7 @@ Iamsofluffy
 
 <img width="1439" height="827" alt="image" src="https://github.com/user-attachments/assets/ad16d4ff-3119-4129-a3ce-7393b8680c38" />
 
+so the username is CarrotHelm in B64 and the password is "Itoldyoutochangeit!"
+```
+Itoldyoutochangeit!
+```
