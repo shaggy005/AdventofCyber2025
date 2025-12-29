@@ -1,4 +1,6 @@
 # ICS/Modbus - Claus for Concern
+
+- just followed the instructions tbh
 ```
 root@ip-10-48-184-165:~# nano reconnaissance.py
 root@ip-10-48-184-165:~# python3 reconnaissance.py
