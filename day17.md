@@ -13,3 +13,15 @@
 ```
 Iamsofluffy
 ```
+## What is the password for the second lock?
+
+<img width="1800" height="750" alt="image" src="https://github.com/user-attachments/assets/82908612-be72-4ba9-98c6-27f6240dc039" />
+
+<img width="1439" height="827" alt="image" src="https://github.com/user-attachments/assets/c4ae185d-1562-4a38-82f3-46a2b6949a35" />
+
+<img width="443" height="468" alt="image" src="https://github.com/user-attachments/assets/d52ed1c3-1e74-416f-97c9-e41141834b7d" />
+
+<img width="1439" height="827" alt="image" src="https://github.com/user-attachments/assets/b7374ace-0560-4193-8778-9aee6659efa5" />
+
+<img width="1439" height="827" alt="image" src="https://github.com/user-attachments/assets/ad16d4ff-3119-4129-a3ce-7393b8680c38" />
+
