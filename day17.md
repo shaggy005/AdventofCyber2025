@@ -61,3 +61,20 @@ BugsBunny
 ```
 passw0rd1
 ```
+## What is the password for the fifth lock?
+
+<img width="1920" height="735" alt="image" src="https://github.com/user-attachments/assets/04714019-c25a-43c3-bf86-f3e14c6460ea" />
+
+<img width="965" height="615" alt="image" src="https://github.com/user-attachments/assets/4ee1f676-8e85-444e-ab90-095a7f324963" />
+
+<img width="1535" height="735" alt="image" src="https://github.com/user-attachments/assets/08f44e64-3390-4433-8640-da0dc70e0456" />
+
+<img width="423" height="627" alt="image" src="https://github.com/user-attachments/assets/48a5c73a-8e15-4f10-9284-d0d7367805f5" />
+
+<img width="1537" height="730" alt="image" src="https://github.com/user-attachments/assets/032834eb-8ade-48e1-9b9e-86b2fabdc6fe" />
+
+- username is Carl in B64 ``Q2FybA==``
+- and the password is
+```
+51rBr34chBl0ck3r
+```
