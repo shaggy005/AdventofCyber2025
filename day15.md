@@ -8,3 +8,11 @@
 
 <img width="1800" height="877" alt="image" src="https://github.com/user-attachments/assets/b8c3f7fc-9970-4186-9711-d85d5cb0c9b1" />
 
+## What is the reconnaissance executable file name?
+```
+whoami.exe
+```
+## What executable did the attacker attempt to run through the command injection?
+```
+PowerShell.exe
+```
